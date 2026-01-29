@@ -1,0 +1,12 @@
+{
+    "name": "murata/onsen",
+    "type": "project",
+    "require": {
+        "symfony/panther": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "mura"
+        }
+    ]
+}
